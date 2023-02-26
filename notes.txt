@@ -1,0 +1,2 @@
+finished "Your first Django project"
+finished "Django models"
