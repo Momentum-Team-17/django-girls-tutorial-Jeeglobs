@@ -1,3 +1,4 @@
 finished "Your first Django project"
 finished "Django models"
 finished "Django admin"
+finished "Django URLs"
